@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/winata/UAV/ros_ws/devel/setup.sh
